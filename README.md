@@ -14,4 +14,4 @@ A continuación, se muestran dos ejemplos de imágenes para que se corrobore que
 
 Para hacer uso de la API, se ha hecho uso del scripts denominado "scriptFotodia.js", en el cual se hace llamamiendo a dicha API y se coge la información necesaria para mostrar dicha foto del día.
 
-Para poder acceder a la web lanzada en Git Pages ha de acceder al siguiente URL: 
+Para poder acceder a la web lanzada en Git Pages ha de acceder al siguiente URL: https://cristinaalvarez.github.io/Pract4/ 
